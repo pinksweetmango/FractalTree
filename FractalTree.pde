@@ -24,7 +24,7 @@ public void draw()
   fill(255, 255, 255);
   textSize(25);
   text("+", 70, 38);
-  text("—", 105, 37);
+  text("—", 103, 37);
   strokeWeight(24);
 }
 
